@@ -9,4 +9,4 @@ Esse projeto foi realizado com o objetivo de obter nota, na matéria de LIMA, re
  - [Atividade 2 - CSS](Atvd2/style.css)
 
 # Participantes
-*Produzido por**Laila Casadei***
+*Produzido por **Laila Casadei***
