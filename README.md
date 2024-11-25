@@ -7,6 +7,9 @@ Esse projeto foi realizado com o objetivo de obter nota, na matéria de LIMA, re
  - [Atividade 1 - CSS](Atvd1/style.css)
  - [Atividade 2 - HTML](Atvd2/index.html)
  - [Atividade 2 - CSS](Atvd2/style.css)
+ - [Lojinha - HTML](Lojinha/index.html)
+ - [Lojinha - CSS](Lojinha/style.css)
+
 
 # Participantes
 *Produzido por **Laila Casadei***
